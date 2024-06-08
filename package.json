@@ -1,0 +1,14 @@
+{
+  "name": "babbys-first-electron-app",
+  "version": "1.0.0",
+  "description": "my first attempt at an electron app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom LaTulipe",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.1.0"
+  }
+}
