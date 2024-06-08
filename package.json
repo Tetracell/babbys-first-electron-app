@@ -1,5 +1,6 @@
 {
   "name": "babbys-first-electron-app",
+  "esversion": 6,
   "version": "1.0.0",
   "description": "my first attempt at an electron app",
   "main": "main.js",
